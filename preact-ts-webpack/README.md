@@ -1,1 +1,1 @@
-Preact + Typescript + Webpack
+Preact + Typescript + Webpack + ESLint
